@@ -63,6 +63,10 @@
 
 这让项目更适合作为长期维护和持续演进的业务底座。
 
+## 团队合作/技术合作 联系方式 - telegram
+<img width="948" height="1151" alt="image" src="https://github.com/user-attachments/assets/dd8b8788-f745-44b5-b8c3-13541b3eb7c6" />
+
+
 ## 核心功能模块
 
 ## 功能总览
