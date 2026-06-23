@@ -73,16 +73,21 @@
 <img width="48%"  alt="ScreenShot_2026-06-24_015411_374" src="https://github.com/user-attachments/assets/c2bc2542-0c77-4b7e-bccc-f1f8ba4410c1" />
 <img width="48%"  alt="ScreenShot_2026-06-24_015335_373" src="https://github.com/user-attachments/assets/4b617007-adfe-4fc4-847a-985a03ab5a74" />
 <img width="52%"  alt="ScreenShot_2026-06-24_015250_792" src="https://github.com/user-attachments/assets/1d4af71d-0821-4094-b32f-7590cb69f6bc" />
+
 ## 核心功能模块预览-详情可查看演示
+
+<img width="30%"   alt="ScreenShot_2026-06-24_020703_427" src="https://github.com/user-attachments/assets/738d1b75-4bfa-4f71-9ad1-23d38ea2940c" />
+<img width="30%"   alt="ScreenShot_2026-06-24_020722_423" src="https://github.com/user-attachments/assets/a2439545-c64a-4c60-9c27-bd4cad81abbd" />
+<img width="30%"   alt="ScreenShot_2026-06-24_020731_627" src="https://github.com/user-attachments/assets/afb24b2f-54cd-4361-8290-6ec80dcf349d" />
 <img width="30%"   alt="ScreenShot_2026-06-24_020845_802" src="https://github.com/user-attachments/assets/a854e4e4-6459-4c07-ac11-00f2d3ab638c" />
 <img width="30%"   alt="ScreenShot_2026-06-24_020826_838" src="https://github.com/user-attachments/assets/e7c7e9d3-5962-40e3-a8c8-3b914553db65" />
 <img width="30%"   alt="ScreenShot_2026-06-24_020812_763" src="https://github.com/user-attachments/assets/5a62d580-a92b-4db5-8fc9-9a96a68f9624" />
 <img width="30%"   alt="ScreenShot_2026-06-24_020758_761" src="https://github.com/user-attachments/assets/5daafd54-f357-4df9-a7a1-4bae185a8636" />
 <img width="30%"   alt="ScreenShot_2026-06-24_020749_338" src="https://github.com/user-attachments/assets/85d54ae2-35d6-4adb-81be-b1d9a0bd01a5" />
 <img width="30%"   alt="ScreenShot_2026-06-24_020742_343" src="https://github.com/user-attachments/assets/6efc1465-dbb8-43a7-b433-e761acf047b8" />
-<img width="30%"   alt="ScreenShot_2026-06-24_020731_627" src="https://github.com/user-attachments/assets/afb24b2f-54cd-4361-8290-6ec80dcf349d" />
-<img width="30%"   alt="ScreenShot_2026-06-24_020722_423" src="https://github.com/user-attachments/assets/a2439545-c64a-4c60-9c27-bd4cad81abbd" />
-<img width="30%"   alt="ScreenShot_2026-06-24_020703_427" src="https://github.com/user-attachments/assets/738d1b75-4bfa-4f71-9ad1-23d38ea2940c" />
+
+
+
 
 ## 功能总览
 
