@@ -63,7 +63,7 @@
 
 这让项目更适合作为长期维护和持续演进的业务底座。
 
-## 团队合作/技术合作 联系方式 - telegram
+## 团队合作/技术合作 联系方式 - telegram - https://t.me/chris099879
 <img width="303" height="312" alt="ScreenShot_2026-06-24_021749_614" src="https://github.com/user-attachments/assets/19423f3e-6b0f-4379-a94c-74f68ee4912f" />
 https://t.me/chris099879
 
