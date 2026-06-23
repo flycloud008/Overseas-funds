@@ -68,11 +68,11 @@
 
 
 ## 核心功能模块预览-详情可查看演示
-<img width="50%"  alt="ScreenShot_2026-06-24_015109_216" src="https://github.com/user-attachments/assets/ac55997d-e39f-4c1e-a67d-9361e6de2df8" />
-<img width="50%"  alt="ScreenShot_2026-06-24_015508_020" src="https://github.com/user-attachments/assets/f7877e0b-e77d-4ae9-b83f-8fc49a76cd9e" />
-<img width="50%"  alt="ScreenShot_2026-06-24_015411_374" src="https://github.com/user-attachments/assets/c2bc2542-0c77-4b7e-bccc-f1f8ba4410c1" />
-<img width="50%"  alt="ScreenShot_2026-06-24_015335_373" src="https://github.com/user-attachments/assets/4b617007-adfe-4fc4-847a-985a03ab5a74" />
-<img width="50%"  alt="ScreenShot_2026-06-24_015250_792" src="https://github.com/user-attachments/assets/1d4af71d-0821-4094-b32f-7590cb69f6bc" />
+<img width="48%"  alt="ScreenShot_2026-06-24_015109_216" src="https://github.com/user-attachments/assets/ac55997d-e39f-4c1e-a67d-9361e6de2df8" />
+<img width="48%"  alt="ScreenShot_2026-06-24_015508_020" src="https://github.com/user-attachments/assets/f7877e0b-e77d-4ae9-b83f-8fc49a76cd9e" />
+<img width="48%"  alt="ScreenShot_2026-06-24_015411_374" src="https://github.com/user-attachments/assets/c2bc2542-0c77-4b7e-bccc-f1f8ba4410c1" />
+<img width="48%"  alt="ScreenShot_2026-06-24_015335_373" src="https://github.com/user-attachments/assets/4b617007-adfe-4fc4-847a-985a03ab5a74" />
+<img width="52%"  alt="ScreenShot_2026-06-24_015250_792" src="https://github.com/user-attachments/assets/1d4af71d-0821-4094-b32f-7590cb69f6bc" />
 
 <img width="30%"   alt="ScreenShot_2026-06-24_020845_802" src="https://github.com/user-attachments/assets/a854e4e4-6459-4c07-ac11-00f2d3ab638c" />
 <img width="30%"   alt="ScreenShot_2026-06-24_020826_838" src="https://github.com/user-attachments/assets/e7c7e9d3-5962-40e3-a8c8-3b914553db65" />
